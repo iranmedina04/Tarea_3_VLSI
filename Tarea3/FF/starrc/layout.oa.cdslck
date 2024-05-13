@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      Cordoba_Wright_I_2024_vlsi
+HostName                       redhat003
+ProcessIdentifier              3380748
+ProcessCreationTime_UTC        1715572074
+ProcessCreationTime_Readable   Sun 12 May 2024 09:47:54 PM CST CST
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /mnt/vol_NFS_rh003/Est_VLSI_I_2024/Cordoba_Wright_I_2024_vlsi/Tarea2/Tarea3/FF/starrc/layout.oa.cdslck
+TimeEditLocked                 Sun 12 May 2024 11:32:51 PM CST CST
