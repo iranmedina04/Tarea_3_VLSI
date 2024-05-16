@@ -37,5 +37,4 @@ n esta tarea, se procederá a la instanciación y caracterización de un flip fl
 [2] Process and Device Specification XH018 - 0.18 μm Modular Mixed Signal HV CMOS, PDS-018-13. Release 7.0.1. XFAB Semiconductor Foundries, Nov. 2017.
 
 [3] J. Rabaey, A. Chandrakasan y B. Nikolic. Digital Integrated Circuits: A Design Perspective.
-# Tarea_3_VLSI
-En este guarderemos los archivos de la tarea 3 de vlsi
+
