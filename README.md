@@ -32,15 +32,19 @@ Para el set up time se obtuvo la respuesta mostrada en la siguiente figura.
 
 Para el hold time se obtuvo la respuesta mostrada en la siguiente figura.
 
+![holdafico](./Imagenes/hold.png)
 
+Por lo que la caracterización del sistema corresponde al mostrado en la siguiente figura.
+
+![sethol](./Imagenes/sethold.png)
 
 Comprando el set up time y el hold time encontrado con las características en el Liberty Displayer se obtuvo. 
 
 | Time | Medido | Liberty Displayer | % de eror |
 |-----------|-----------|-----------|-----------|
-| Fila 1,1  | Fila 1,2  | Fila 1,3  | Fila 1,4  |
-| Fila 2,1  | Fila 2,2  | Fila 2,3  | Fila 2,4  |
-| Fila 3,1  | Fila 3,2  | Fila 3,3  | Fila 3,4  |
+| Set Up   |Fila 1,2  | Fila 1,3  | Fila 1,4  |
+| Hold    | Fila 2,2  | Fila 2,3  | Fila 2,4  |
+
  
 ## Análisis 
 
