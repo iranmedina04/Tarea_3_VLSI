@@ -23,9 +23,12 @@ n esta tarea, se procederá a la instanciación y caracterización de un flip fl
 
 Para la optención de los resultados se instanció tanto el esquematico como el layout del flip flop DFFHDLLX0 junto con 2 inversores de 1x y 4x los cuales acondicionan la señal para tener una señal de clock realista. Este se encuentra presente en la biblioteca del curso. A continuacion se muestra una imagen tanto del layout como del esquemático. 
 
+![setupgrafico](./Imagenes/layout.png)
 
 Posteriormente, se procedio a la optención de set up time y hold time característicos del flip flip menciondo. Para esto se uitlizó, lo visto en [2], y mediante simulación en Hspice a nivel de trazado (LPE) se comprobó los parámetros de tsetup, thold, usando la técnica de variación de tcd y midiendo tpcq. Para esto se utilizó un metodo de barrido de la fuente y se medio la señal de clock, las entradas de los datos y la salida. A continuación se puede ver ejemplo de las simulaciones. 
 
+![setupgrafico](./Imagenes/simulacion1.jpg)
+![setupgrafico](./Imagenes/simulacion2.jpg)
 Para el set up time se obtuvo la respuesta mostrada en la siguiente figura. 
 
 ![setupgrafico](./Imagenes/SetUp.png)
