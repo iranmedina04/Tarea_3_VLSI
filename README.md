@@ -41,20 +41,28 @@ Por lo que la caracterización del sistema corresponde al mostrado en la siguien
 
 ![sethol](./Imagenes/sethold.png)
 
-Comprando el set up time y el hold time encontrado con las características en el Liberty Displayer se obtuvo. 
+Según lo mencionado en [1] de las graficas se puede extraar el setup time y hold time. asi mism, comprando el set up time y el hold time encontrado con las características en el Liberty Displayer se obtuvo. 
 
 | Time | Medido | Liberty Displayer [PS] | % de eror |
 |-----------|-----------|-----------|-----------|
-| Set Up   |Fila 1,2  |   | 273  |
-| Hold    | Fila 2,2  | 762  | Fila 2,4  |
+| Set Up   | 250 | 273  |  8.42 |
+| Hold    | 775  | 762  | 1.67  |
 
  
 ## Análisis 
 
+Los resultados obtenidos muestran un bajo porcentaje de error, lo que indica una alta precisión en la medición del tiempo de setup y hold del flip-flop.
+
+En el tiempo de Set Up aunque el error es ligeramente mayor que el del tiempo de hold, sigue siendo un valor aceptable en la mayoría de las aplicaciones prácticas. La diferencia puede ser atribuida a variaciones en las condiciones de prueba que pueden deberse a los modelos de simulación o la cantidad de datos extraidos que permiten un mayor análisis estadístico del mismo.
+
+Por otra parte, el tiempo de Hold es muy bajo, indicando una excelente correlación entre las mediciones realizadas y los valores proporcionados por el Liberty Displayer. Las razones para este bajo porcentaje de error pueden otra vez variaciones en las condiciones.
+
+Por lo que, los resultados obtenidos para los tiempos de setup y hold del flip-flop son altamente aceptables debido a los bajos porcentajes de error. Los factores que pueden contribuir a estas pequeñas discrepancias incluyen diferencias entre los modelos de simulación y las condiciones reales de operación del dispositivo.
+
 
 ## Conclusiones
 
-
+En resumen, el análisis demuestra que los tiempos de setup y hold medidos son confiables y se alinean estrechamente con los valores esperados. Esto asegura que el flip-flop funcionará correctamente dentro de los márgenes de tiempo especificados, garantizando un diseño robusto y fiable en aplicaciones prácticas.
 
 ## Referencias
 [1] N. Weste and D. Harris, CMOS VLSI Design: A Circuits and Systems Perspective, 4 edition. Boston: Addison-Wesley, 2010.
