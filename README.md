@@ -43,10 +43,10 @@ Por lo que la caracterización del sistema corresponde al mostrado en la siguien
 
 Comprando el set up time y el hold time encontrado con las características en el Liberty Displayer se obtuvo. 
 
-| Time | Medido | Liberty Displayer | % de eror |
+| Time | Medido | Liberty Displayer [PS] | % de eror |
 |-----------|-----------|-----------|-----------|
-| Set Up   |Fila 1,2  | Fila 1,3  | Fila 1,4  |
-| Hold    | Fila 2,2  | Fila 2,3  | Fila 2,4  |
+| Set Up   |Fila 1,2  |   | 273  |
+| Hold    | Fila 2,2  | 762  | Fila 2,4  |
 
  
 ## Análisis 
